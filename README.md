@@ -6,6 +6,9 @@ Securely access encrypted credentials and environment variables from within a La
 
 ## 🧰 STEP-BY-STEP GUIDE
 
+![lambda-secret (1)](https://github.com/user-attachments/assets/205e0c35-2aeb-47d2-a574-2491537f6cd6)
+
+
 ### ✅ Task 1: Create a Customer-Managed KMS Key
 
 Go to AWS KMS Console → Click Create key.
